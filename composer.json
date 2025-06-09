@@ -1,9 +1,9 @@
 {
-    "name": "ricardomartins/pagbank-magento2",
-    "description": "PagBank/Pagseguro para Magento 2 Nova Geração com desconto nas taxas oficiais.",
+    "name": "heitorforner/pagbank-magento2",
+    "description": "Fork of PagBank/Pagseguro Magento 2 module created by Ricardo Martins and Ligia Salzano",
     "type": "magento2-module",
     "license": "GPL-3.0-or-later",
-    "version": "4.4.3",
+    "version": "1.0.0",
     "require": {
         "php": "~8.1.0||~8.2.0||~8.3.0",
         "magento/module-vault": "101.2.*"
@@ -16,6 +16,10 @@
         {
             "name": "Ligia Salzano",
             "email": "ligiasalzano@gmail.com"
+        },
+        {
+            "name": "Forked by Heitor Forner",
+            "email": "heitor.forner@gmail.com"
         }
     ],
     "autoload": {
